@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586569608 source:d:\program files (x86)\codeblocks\ax801\class1-2\class2\main.c
+	<stdio.h>
+	<stdlib.h>
+
